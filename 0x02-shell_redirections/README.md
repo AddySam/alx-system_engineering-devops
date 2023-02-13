@@ -1,2 +1,3 @@
 to print Hello World
-to displays a confused smiley
+to display a confused smiley
+to display the content of the /etc/passwd file
