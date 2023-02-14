@@ -15,5 +15,6 @@ to Create a script that takes a list of words as input and prints only words tha
 to Display lines containing the pattern “root” from the file
 to Display the number of lines that contain the pattern “bin” in the file
 to Display lines containing the pattern “root” and 3 lines after them in the file
-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+to Display all lines of the file /etc/ssh/sshd_config starting with a letter
+to Replace all characters A and c from input to Z and e respectively
